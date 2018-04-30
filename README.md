@@ -1,5 +1,7 @@
 
 # Create a realtime audio waveform based on the pitch and volume with Arduino
+### Watch the video
+The entire process was filmed here: https://youtu.be/lU1GVVU9gLU
 
 ## Requirements
 - Frequency to voltage converter such as Math Encounters Blog: http://mathscinotes.com/2014/03/a-simple-frequency-to-voltage-converter/
@@ -16,6 +18,3 @@ This creates a "memory" effect to display a real time portion of the audio wavef
 ## Note
 This code assumes you have a frequency to voltage converter, which operates between 1 - 3 volts during regular music frequencies (roughly 
 100 - 600hz). Take note to define the correct data pins if you try to build and use this code for your own builds.
-
-### Watch the video
-The entire process was filmed here: https://youtu.be/lU1GVVU9gLU
