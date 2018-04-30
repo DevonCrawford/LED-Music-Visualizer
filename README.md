@@ -1,5 +1,5 @@
 
-# Create a realtime audio waveform based on the pitch and volume with Arduino
+# Create a realtime LED audio waveform based on the pitch and volume with Arduino
 ### Watch the video
 The entire process was filmed here: https://youtu.be/lU1GVVU9gLU
 
