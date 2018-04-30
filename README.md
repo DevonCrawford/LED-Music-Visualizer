@@ -12,7 +12,7 @@ The entire process was filmed here: https://youtu.be/lU1GVVU9gLU
 
 Every 1 ms, the frequency(pitch) of the audio is read into the arduino, and the volume is read from the amplified audio signal.
 The pitch is then mapped to rgb colors, and the volume represents the brightness. The combination of these values give us unique rgb
-values for a single LED. Since we have an array of LEDs we can shift all of them to the right before we update the first LED.
+colors for a single LED. Since we have an array of LEDs we can shift all of them to the right before we update the first LED.
 This creates a "memory" effect to display a real time portion of the audio waveform. 
 
 ## Note
