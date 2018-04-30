@@ -1,6 +1,5 @@
 
-Connect your music to a frequency to voltage circuit and an Arduino, so that you can create a realtime waveform based on the 
-pitch and volume. 
+# Create a realtime audio waveform based on the pitch and volume with Arduino
 
 ## Requirements
 - Frequency to voltage converter such as Math Encounters Blog: http://mathscinotes.com/2014/03/a-simple-frequency-to-voltage-converter/
