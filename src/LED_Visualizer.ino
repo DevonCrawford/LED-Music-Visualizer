@@ -157,5 +157,5 @@ void printColor(Color c) {
   Serial.print(c.b);
   Serial.println(" )");
 }
-
+.
 
